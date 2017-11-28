@@ -1,0 +1,11 @@
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\Users\Asus2\Documents\Visual Studio 2017\Projects\WebApi\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
