@@ -13115,7 +13115,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus2\\.nuget\\packages\\": {},
+    "C:\\Users\\Jenish\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13124,17 +13124,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus2\\documents\\visual studio 2017\\Projects\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Jenish\\Desktop\\api\\webApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Asus2\\documents\\visual studio 2017\\Projects\\WebApi\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\Asus2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus2\\documents\\visual studio 2017\\Projects\\WebApi\\WebApi\\obj\\",
+      "projectPath": "C:\\Users\\Jenish\\Desktop\\api\\webApi\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\Jenish\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jenish\\Desktop\\api\\webApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Asus2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jenish\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13164,7 +13164,7 @@
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {
